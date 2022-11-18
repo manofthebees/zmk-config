@@ -14,6 +14,6 @@
 ---
 include:
   - board: seeeduino_xiao_ble
-    shield: leeloo_left
+    shield: handskeletyl_left
   - board: seeeduino_xiao_ble
-    shield: leeloo_right
+    shield: handskeletyl_right
