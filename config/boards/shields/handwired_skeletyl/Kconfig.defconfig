@@ -1,16 +1,16 @@
-if SHIELD_HANDSKELETYL
-
+if SHIELD_SKELETYL_LEFT
+ 
 config ZMK_KEYBOARD_NAME
-    default "HandSkeletyl"
-
-config ZMK_SPLIT_ROLE_CENTRAL
+    default "Skeletyl"
+ 
+config ZMK_SPLIT_BLE_ROLE_CENTRAL
     default y
-
+ 
 endif
-
-if SHIELD_HANDSKELETYL_LEFT || SHIELD_HANDSKELETYL_RIGHT
-
+ 
+if SHIELD_SKELETYL_LEFT || SHIELD_SKELETYL_RIGHT
+ 
 config ZMK_SPLIT
     default y
-
+ 
 endif

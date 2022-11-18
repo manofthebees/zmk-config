@@ -1,8 +1,4 @@
-#include "handskeletyl.dtsi"
-
-&default_transform { // The matrix transform for this board is 5
-    col-offset = <5>;
-};
+#include "skeletyl.dtsi"
 
 &kscan0 {
     row-gpios

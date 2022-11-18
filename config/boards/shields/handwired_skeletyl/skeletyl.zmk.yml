@@ -1,6 +1,6 @@
 file_format: "1"
-id: handskeletyl
-Name: handskeletyl
+id: skeletyl
+Name: Skeletyl
 type: shield
 url: https://github.com/Bastardkb/Skeletyl
 requires: [seeed_xiao]
