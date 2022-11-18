@@ -1,0 +1,11 @@
+file_format: "1"
+id: handskeletyl
+Name: handskeletyl
+type: shield
+url: https://github.com/Bastardkb/Skeletyl
+requires: [seeed_xiao]
+features:
+  -keys
+siblings:
+  - skeletyl_left
+  - skeletyl_right
