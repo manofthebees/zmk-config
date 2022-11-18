@@ -18,7 +18,7 @@
   &kp Z &kp X &kp C &kp V &kp B                               &kp N &kp M &kp COMMA &kp DOT &kp FSLH
                     &kp LSHIFT &kp SPACE &kp LCTRL      &mo 1 &kp RET &kp BSPC 
             >;
-
+                &out OUT_BLE
             };
 
             layer_zero {
@@ -33,7 +33,7 @@
   &trans &trans &trans &trans &trans                          &kp KP_PLUS &kp MINUS &kp EQUAL &kp LBKT &kp RBKT
                     &kp LALT &kp LSHIFT &kp LCTRL       &trans &trans &trans 
             >;
-
+                &out OUT_BLE
             };
         };
 };
