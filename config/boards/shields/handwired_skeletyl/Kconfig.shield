@@ -1,6 +1,3 @@
-config SHIELD_SKELETYL
-    bool
-
 config SHIELD_SKELETYL_LEFT
     def_bool $(shields_list_contains,skeletyl_left)
     select SHIELD_SKELETYL
